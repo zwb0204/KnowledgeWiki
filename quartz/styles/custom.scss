@@ -26,3 +26,24 @@ a.internal {
 pre {
   border: 1px solid var(--lightgray);
 }
+
+// ── 安静编辑风精修（设计原则借鉴，无品牌资产）────────────────────
+// 标题收紧字距：大字号下的负字距让版面更精确
+h1, h2, h3,
+.page-title {
+  letter-spacing: -0.02em;
+}
+
+// 层次靠 1px 发丝线，不靠阴影：弱化弹层与搜索框的投影
+.search > .search-container > .search-space > * ,
+.popover > .popover-inner {
+  box-shadow: none;
+  border: 1px solid var(--lightgray);
+}
+
+// 分隔线统一为发丝线
+hr {
+  height: 1px;
+  background: var(--lightgray);
+  border: none;
+}
