@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>BluetoothSpace</title>
+      <link>https://bluetoothspace.com</link>
+      <description>Last 10 notes on BluetoothSpace</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>meta</title>
+    <link>https://bluetoothspace.com/meta/</link>
+    <guid>https://bluetoothspace.com/meta/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 24 Jul 2026 01:51:01 GMT</pubDate>
+  </item><item>
+    <title>meta</title>
+    <link>https://bluetoothspace.com/tags/meta</link>
+    <guid>https://bluetoothspace.com/tags/meta</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 24 Jul 2026 01:51:01 GMT</pubDate>
+  </item><item>
+    <title>标签索引</title>
+    <link>https://bluetoothspace.com/tags/</link>
+    <guid>https://bluetoothspace.com/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 24 Jul 2026 01:51:01 GMT</pubDate>
+  </item><item>
+    <title>Harry 的知识花园</title>
+    <link>https://bluetoothspace.com/</link>
+    <guid>https://bluetoothspace.com/</guid>
+    <description><![CDATA[ 个人技术知识库的公开区。当前处于建设期，内容将随审核发布逐步增加。 测试页：Hello Wiki . ]]></description>
+    <pubDate>Thu, 23 Jul 2026 14:37:43 GMT</pubDate>
+  </item><item>
+    <title>Hello Wiki——发布链路测试页</title>
+    <link>https://bluetoothspace.com/meta/hello-wiki</link>
+    <guid>https://bluetoothspace.com/meta/hello-wiki</guid>
+    <description><![CDATA[ Hello Wiki 这是个人知识库 B 阶段发布链路的测试页面。 若你在浏览器里看到本页，说明以下管线全部工作正常： Obsidian 正式区 → kb publish（门禁+隐私扫描）→ Publish/Wiki → Quartz 构建 → 静态站点 本页由 kb publish 生成公开母稿，内部元数据（confidentiality 等）已剥离； 内部链接（如 架构方案）会被转换为纯文本； 私有内容永远不会进入公开仓库——发布区与私人 Vault 物理隔离。 . ]]></description>
+    <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
